@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/Zeetah/gulp-cjsx-todo/issues"
   },
-  "homepage": "https://github.com/Zeetah/gulp-cjsx-todo"
+  "homepage": "https://github.com/Zeetah/gulp-cjsx-todo",
+  "devDependencies": {
+    "coffee-react": "^2.1.2",
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-cjsx": "^2.0.0",
+    "gulp-util": "^3.0.1",
+    "node-cjsx": "^0.1.2"
+  }
 }
