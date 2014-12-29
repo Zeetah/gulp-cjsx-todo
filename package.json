@@ -1,0 +1,26 @@
+{
+  "name": "gulp-cjsx-todo",
+  "version": "0.0.1",
+  "description": "Todo app skeleton with gulp, coffeescript and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeetah/gulp-cjsx-todo.git"
+  },
+  "keywords": [
+    "Gulp",
+    "CoffeeScript",
+    "React",
+    "React.js",
+    "JavaScript"
+  ],
+  "author": "Toni Ahola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zeetah/gulp-cjsx-todo/issues"
+  },
+  "homepage": "https://github.com/Zeetah/gulp-cjsx-todo"
+}
