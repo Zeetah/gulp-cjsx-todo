@@ -32,9 +32,7 @@
     "gulp-cjsx": "^2.0.0",
     "gulp-clean": "^0.3.1",
     "gulp-connect": "^2.2.0",
-    "gulp-server-livereload": "^1.0.1",
     "gulp-util": "^3.0.1",
-    "gulp-watch": "^3.0.0",
-    "node-cjsx": "^0.1.2"
+    "gulp-watch": "^3.0.0"
   }
 }
